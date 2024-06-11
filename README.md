@@ -1,2 +1,4 @@
-# data-entry-form-
-This is an automated data entry form in excel and can be used on events to record attendance
+# Data Entry Form in Excel
+
+## Introduction
+During an event it would not only be tiresome but stressful to record attendance manually but with this automated excel form it would be muc easier to record all attendees.
