@@ -15,3 +15,6 @@ By use of the developer tab on excel
 
 
 the form records data and the data is saved on a separate sheet after the user submits his or her information details.
+
+### Conclusion
+This data entry form has been made entirely on excel and is great for obtaining data from your users or attendees to an event.
